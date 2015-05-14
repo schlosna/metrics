@@ -29,9 +29,8 @@ the many third-party libraries which extend Metrics:
 * `metrics-spark-reporter <https://github.com/ippontech/metrics-spark-reporter>`_ provides a reporter for `Apache Spark Streaming <https://spark.apache.org/streaming/>`_.
 * `jersey-metrics-filter <https://github.com/palominolabs/jersey-metrics-filter>`_ provides integration with Jersey 1.
 * `metrics-new-relic <https://github.com/palominolabs/metrics-new-relic>`_ provides a reporter which sends data to New Relic.
-* `hdrhistogram-metrics-reservoir <https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir>`_ provides a Histogram reservoir backed by `HdrHistogram <http://hdrhistogram.org/>`_.
-* `metrics-instrumental <https://github.com/egineering-llc/metrics-instrumental>`_ provides a reporter to send data to `Instrumental <http://instrumentalapp.com/>`_.
 * `hdrhistogram-metrics-reservoir <https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir>`_ a Metrics reservoir implementation backed by `HdrHistogram <http://hdrhistogram.org/>`_.
+* `metrics-instrumental <https://github.com/egineering-llc/metrics-instrumental>`_ provides a reporter to send data to `Instrumental <http://instrumentalapp.com/>`_.
 * `metrics-play <https://github.com/kenshoo/metrics-play>`_ provides an integration with the Play Framework
 * `metrics-kafka <https://github.com/hengyunabc/metrics-kafka>`_ provides a reporter for Kafka
 * `metrics-zabbiz <https://github.com/hengyunabc/metrics-zabbix>`_ provides a reporter for Zabbix
